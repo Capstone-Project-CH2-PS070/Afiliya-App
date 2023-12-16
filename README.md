@@ -13,3 +13,4 @@ First thing first to make Afiliya-App is design the framework or mock design on 
 ##
 Figma Design
 --
+https://www.figma.com/file/ShGzQpZLQ3fLe3OmlNTVzJ/Afiliya---Capstone-Project-Team-Bangkit?type=design&node-id=0-1&mode=design&t=eqQuFzpOruKkzyd7-0
