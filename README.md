@@ -47,3 +47,15 @@ Connecting Android Studio to Github Organization Project
 --
 To simplify communication and teamwork, during the app development process, our team connected the android studio app project with the github organization project that we had created earlier. This makes it easier for us to implement the app design in the form of an app project, both among the mobile development team and with the teams from machine learning and cloud computing who provide datasets and APIs for the "afiliya" app.
 ##
+Lybrary on Afiliya-App
+--
+Here's some library we use to make Afiliya working
+###
+Retrofit
+--
+implementation 'com.squareup.okhttp3:logging-interceptor:4.9.0'
+implementation 'com.squareup.okhttp3:okhttp:4.10.0'
+implementation "com.squareup.retrofit2:converter-gson:$retrofit_version"
+implementation "com.squareup.retrofit2:retrofit:$retrofit_version"
+implementation 'com.google.code.gson:gson:2.9.0'
+implementation "com.squareup.okhttp3:okhttp-sse:4.9.3"
